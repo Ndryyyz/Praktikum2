@@ -22,5 +22,5 @@ if bilangan2 > bilangan3:
 if bilangan1 > bilangan2:
     bilangan1, bilangan2 = bilangan2, bilangan1
 # Output bilangan terkecil ke terbesar
-
 print("urutan bilangan:", bilangan1, bilangan2, bilangan3, bilangan4)
+

@@ -1,6 +1,8 @@
+# Mengambil input n
 n = int(input("Berapa angka random yang mau ditampilkan? "))
 
 for i in range(n):
+    # Generate pseudo-random number menggunakan Linear Congruential Generator (LCG)
     seed = i * 789
     j = 0
     

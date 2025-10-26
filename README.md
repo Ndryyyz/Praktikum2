@@ -77,7 +77,7 @@ Untuk perulangan: “Loop memungkinkan pengulangan eksekusi secara otomatis hing
 
 Catat saran atau hal yang perlu diperbaiki untuk percobaan selanjutnya.
 
-8. Pembersihan dan Evaluasi
+7. Pembersihan dan Evaluasi
 
 Tutup semua program/IDE.
 

@@ -19,5 +19,6 @@ if bilangan4 > bilangan1:
 
 
 # Output bilangan terbesar
-print(f"Bilangan terbesar adalah: {bilangan1}")
+print("Bilangan terbesar adalah: ", bilangan1)
+
 

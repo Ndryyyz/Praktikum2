@@ -1,6 +1,6 @@
 # Praktikum2
 
-Tahapan Praktikum
+Tahapan Praktikum Dan Penjelasan Program
 1. Judul dan Tujuan
 
 Judul: Praktikum 2 – Struktur Kontrol: Kondisi if dan Perulangan (Loop)

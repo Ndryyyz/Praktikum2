@@ -7,7 +7,7 @@ bilangan3 = int(input("Masukkan bilangan ketiga: "))
 bilangan4 = int(input("Masukkan bilangan keempat: "))
 
 # Gunakan bilangan1 sebagai pembanding
-# Bandingkan dengan bilangan2
+# Bandingkan dengan bilangan2, bilangan3 dst..
 if bilangan2 > bilangan1:
     bilangan1 = bilangan2
 
@@ -20,3 +20,4 @@ elif bilangan4 > bilangan1:
 
 # Output bilangan terbesar
 print(f"Bilangan terbesar adalah: {bilangan1}")
+

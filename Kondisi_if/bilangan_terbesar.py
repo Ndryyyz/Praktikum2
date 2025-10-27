@@ -11,13 +11,12 @@ bilangan4 = int(input("Masukkan bilangan keempat: "))
 if bilangan2 > bilangan1:
     bilangan1 = bilangan2
 
-# Bandingkan dengan bilangan3
-if bilangan3 > bilangan1:
+elif bilangan3 > bilangan1:
     bilangan1 = bilangan3
-
-# Bandingkan dengan bilangan4
-if bilangan4 > bilangan1:
+    
+elif bilangan4 > bilangan1:
     bilangan1 = bilangan4
+
 
 # Output bilangan terbesar
 print(f"Bilangan terbesar adalah: {bilangan1}")
